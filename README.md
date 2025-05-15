@@ -1,5 +1,5 @@
 # How it works
-This program uses Fernet to encrypt the key, making impossible to anyone with a license key use it.
+This program uses Fernet to encrypt the key, making impossible to anyone without a license key use it.
 ____________________________________
 
 # If its unbreakable, how people will gain access to it?
