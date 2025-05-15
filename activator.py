@@ -2,7 +2,7 @@ import os
 from cryptography.fernet import Fernet
 print("Welcome to activator")
 print("")
-type = input()
+type = input("Enter the activation key: ")
 key = Fernet.generate_key
 key_encrypt = Fernet.encrypt(key) 
 if type == key_encrypt:
