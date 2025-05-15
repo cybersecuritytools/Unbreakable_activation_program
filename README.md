@@ -1,10 +1,11 @@
 # Instalation
-'sudo apt install python3
+```
+sudo apt install python3
 sudo apt install git
 git clone https://github.com/cybersecuritytools/Unbreakable_activation_program
 cd Unbreakable_activation_program
-python3 activator.py'
-
+python3 activator.py
+```
 # How it works
 This program uses Fernet to encrypt the key, making impossible to anyone without a license key use it.
 ____________________________________
